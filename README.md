@@ -4,7 +4,7 @@
   <a href="https://github.com/leo12wb">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo12wb&show_icons=true&theme=radical&count_private=true"/> -->
   <img height="260em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leo12wb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo12wb&layout=compact&langs_count=10&theme=radical"/>
+  <img height="260em" src="https://github-readme-stats-sigmal.app/api/top-langs/?username=leo12wb&layout=compact&langs_count=10&theme=radical"/>
 </div>  
   
 <div style="display: inline_block"><br>
