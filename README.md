@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo12wb&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>  
   
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
 
-</div>
+</div> -->
   
 ##
   
